@@ -1,0 +1,6 @@
+tools used
+
+XAMPP
+codeignitor v4
+
+add XAMPP/php to environment for running php programs in IDEs
